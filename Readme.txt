@@ -1,0 +1,2 @@
+Executar primeiramente o arquivo create_table_Q7.sql para criação das tabelas a serem utilizadas + carga de dados, logo após abrir 
+o arquivo Question_7.sql em qualquer ambiente de desenvolvimento SQL, ao executar o resultado será exibido no output interno.
